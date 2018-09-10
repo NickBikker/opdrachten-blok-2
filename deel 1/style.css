@@ -1,0 +1,25 @@
+div{
+    width: 800px;
+    height: 900px;
+    background-color: lightblue;
+}
+
+#foto1{
+    float: left;
+    margin: 10px;
+}
+
+#foto2{
+    float: right;
+    margin: 10px;
+}
+
+#foto3{
+    float: left;
+    margin: 10px
+}
+
+h1{
+    margin-left: 20px;
+    margin-top: 4px;
+}
