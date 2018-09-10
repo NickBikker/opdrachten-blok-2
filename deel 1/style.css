@@ -1,7 +1,9 @@
 div{
     width: 800px;
-    height: 900px;
+    height: 830px;
     background-color: lightblue;
+    border: solid black;
+    border-width: 2px;
 }
 
 #foto1{
@@ -22,4 +24,9 @@ div{
 h1{
     margin-left: 20px;
     margin-top: 4px;
+}
+
+img{
+    border-width: 1px;
+    border: solid black;
 }
