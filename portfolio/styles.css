@@ -2,6 +2,8 @@ body{
     background-image: url("image/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0px;
+    padding: 0px;
 
 }
 
@@ -12,16 +14,14 @@ body{
     margin-right: auto;
     background-color: black;
     opacity: 0.8;
+
 }
 
-#list{
-    display: inline-block;
-}
 
 a{
     color: white;
     text-decoration: none;
-    margin-left: 120px;
+
 }
 
 h1{
@@ -40,4 +40,28 @@ h3{
 p{
     color: white;
     margin: 10px;
+}
+
+#mij{
+    float: left;
+    width: 200px;
+    margin: 10px;
+    border: solid white;
+}
+
+li{
+    display: inline-block;
+    margin: 65px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+
+}
+
+ul{
+    text-align: center;
+    border: solid white;
+    margin-top: 0px;
+    padding: 0px;
+
 }
